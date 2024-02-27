@@ -1,0 +1,14 @@
+
+<svg
+xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+<defs>
+<style>.menu-insights-fill{fill: #fff;}.menu-insights-none{fill:none;}</style>
+</defs>
+<g transform="translate(48 48)">
+<g transform="translate(-48 -48)">
+<rect class="menu-insights-none" width="22" height="22"/>
+<path class="menu-insights-fill" d="M28.03,10.029l-1.48,2.933a1.41,1.41,0,0,0,.978,2.016l2.788.568-6.643,6.018L25.163,18.8A1.41,1.41,0,0,0,24.2,16.75l-2.787-.568,6.612-6.153m2.292-3.754a.7.7,0,0,0-.478.188l-10.318,9.6a.7.7,0,0,0,.337,1.2l4.067.829a.035.035,0,0,1,.024.051l-3.36,6.226a.7.7,0,0,0,1.089.849l10.547-9.555a.7.7,0,0,0-.33-1.2l-4.1-.835a.035.035,0,0,1-.024-.05l3.173-6.288a.7.7,0,0,0-.629-1.018Z" transform="translate(-14.878 -4.837)"/>
+</g>
+</g>
+</svg>
+

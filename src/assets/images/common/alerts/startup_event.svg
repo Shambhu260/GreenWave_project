@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .a {
+        fill: #fff;
+      }
+
+      .stroke-black {
+        fill: #666;
+      }
+
+      .b {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g transform="translate(-2488 -2767)">
+    <rect class="b" width="32" height="32" transform="translate(2488 2767)" />
+    <g transform="translate(2489.56 2769.284)">
+      <g transform="translate(10.007 8.81)">
+        <path class="stroke-black"
+          d="M2534.82,2808.138a1,1,0,0,1-1-1v-5.858a1,1,0,0,1,2,0v5.858A1,1,0,0,1,2534.82,2808.138Z"
+          transform="translate(-2530.114 -2800.28)" />
+        <path class="stroke-black" d="M2527.408,2819.854H2523.7a1,1,0,0,1,0-2h3.706a1,1,0,0,1,0,2Z"
+          transform="translate(-2522.702 -2811.996)" />
+      </g>
+      <path class="stroke-black"
+        d="M2506.681,2801.851a14,14,0,1,1,14-14A14.016,14.016,0,0,1,2506.681,2801.851Zm0-26a12,12,0,1,0,12,12A12.013,12.013,0,0,0,2506.681,2775.851Z"
+        transform="translate(-2492.681 -2773.851)" />
+    </g>
+  </g>
+</svg>

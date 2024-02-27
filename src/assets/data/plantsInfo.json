@@ -1,0 +1,333 @@
+{
+    "plantsInfo": [{
+            "title": "Aksa Beach",
+            "info": "608aa6592fbe632a68779f6a",
+            "position": {
+                "lat": 22.358651999999998,
+                "lng": 71.1923805
+            },
+            "options": {
+                "animation": "google.maps.Animation.DROP"
+            },
+            "description": "Aksa Beach is a popular beach and a vacation spot in Aksa village at Malad, Mumbai."
+        },
+        {
+            "title": "Juhu Beach",
+            "info": "608aa6592fbe632a68779f6b",
+            "position": {
+                "lat": 22.258654999999998,
+                "lng": 71.1423805
+            },
+            "options": {
+                "animation": "google.maps.Animation.DROP"
+            },
+            "description": "Juhu Beach is one of favourite tourist attractions situated in Mumbai."
+        },
+        {
+            "title": "Girgaum Beach",
+            "info": "608aa6592fbe632a68779f6c",
+            "position": {
+                "lat": 22.258653999999998,
+                "lng": 71.1623805
+            },
+            "options": {
+                "animation": "google.maps.Animation.DROP"
+            },
+            "description": "Girgaum Beach commonly known as just Chaupati is one of the most famous public beaches in Mumbai."
+        },
+        {
+            "title": "Jijamata Udyan",
+            "info": "608aa6592fbe632a68779f6d",
+            "position": {
+                "lat": 22.458652999999998,
+                "lng": 71.1723805
+            },
+            "options": {
+                "animation": "google.maps.Animation.DROP"
+            },
+            "description": "Jijamata Udyan is situated near Byculla station is famous as Mumbai (Bombay) Zoo."
+        },
+        {
+            "title": "Sanjay Gandhi National Park",
+            "info": "608aa6592fbe632a68779f6e",
+            "position": {
+                "lat": 22.258652999999998,
+                "lng": 71.1823805
+            },
+            "options": {
+                "animation": "google.maps.Animation.DROP"
+            },
+            "description": "Sanjay Gandhi National Park is a large protected area in the northern part of Mumbai city."
+        }
+    ],
+    "energyData": {
+      
+        "data": [{
+                "value": "520595",
+                "label": "Energy This month(kWh)"
+            }
+            
+        ]
+    },
+    "powerData": {
+       
+        "data": [{
+                "value": "6",
+                "label": "Total Energy (MU)"
+            }
+        ]
+    },
+    "plantData": {
+        
+        "data": [{
+                "value": "140461",
+                "label": "Prevented CO2 (Tons)"
+            }
+        ]
+    },
+	"todayEnergyData":{
+	 "data": [{
+                "value": "40000",
+                "label": "Today Energy (kWh)"
+            }
+        ]
+    },
+    "solarData":{
+        "title": "Solar Plant",
+        "data":[{
+            "value":31.22,
+            "label":"Total Capacity (GW)"
+        }]
+    },
+    "inverterChart": [{
+            "inverterId": "INV1",
+            "data": [{
+                    "date": "2021-07-20T12:05:36.621Z",
+                    "efficiency": "10",
+                    "activePower": "800",
+                    "energyToday": "151"
+                },
+                {
+                    "date": "2021-07-21T13:05:36.621Z",
+                    "efficiency": "20",
+                    "activePower": "430",
+                    "energyToday": "551"
+                },
+                {
+                    "date": "2021-07-22T13:25:36.621Z",
+                    "efficiency": "30",
+                    "activePower": "700",
+                    "energyToday": "331"
+                },
+                {
+                    "date": "2021-07-23T13:35:36.621Z",
+                    "efficiency": "40",
+                    "activePower": "430",
+                    "energyToday": "451"
+                },
+                {
+                    "date": "2021-07-24T13:37:36.621Z",
+                    "efficiency": "50",
+                    "activePower": "670",
+                    "energyToday": "251"
+                },
+                {
+                    "date": "2021-07-25T14:05:36.621Z",
+                    "efficiency": "30",
+                    "activePower": "870",
+                    "energyToday": "561"
+                },
+                {
+                    "date": "2021-07-27T14:05:36.621Z",
+                    "efficiency": "66",
+                    "activePower": "700",
+                    "energyToday": "551"
+                }
+            ]
+        }, {
+            "inverterId": "INV2",
+            "data": [{
+                    "date": "2021-07-20T12:05:36.621Z",
+                    "efficiency": "20",
+                    "activePower": "700",
+                    "energyToday": "351"
+                },
+                {
+                    "date": "2021-07-21T13:05:36.621Z",
+                    "efficiency": "20",
+                    "activePower": "600",
+                    "energyToday": "351"
+                },
+                {
+                    "date": "2021-07-22T13:25:36.621Z",
+                    "efficiency": "30",
+                    "activePower": "560",
+                    "energyToday": "351"
+                },
+                {
+                    "date": "2021-07-23T13:35:36.621Z",
+                    "efficiency": "10",
+                    "activePower": "340",
+                    "energyToday": "351"
+                },
+                {
+                    "date": "2021-07-24T13:37:36.621Z",
+                    "efficiency": "20",
+                    "activePower": "400",
+                    "energyToday": "351"
+                },
+                {
+                    "date": "2021-07-25T14:05:36.621Z",
+                    "efficiency": "30",
+                    "activePower": "650",
+                    "energyToday": "351"
+                },
+                {
+                    "date": "2021-07-27T14:05:36.621Z",
+                    "efficiency": "66",
+                    "activePower": "230",
+                    "energyToday": "151"
+                }
+            ]
+        },
+        {
+            "inverterId": "INV3",
+            "data": [{
+                    "date": "2021-07-20T12:05:36.621Z",
+                    "efficiency": "10",
+                    "activePower": "780",
+                    "energyToday": "351"
+                },
+                {
+                    "date": "2021-07-21T13:05:36.621Z",
+                    "efficiency": "20",
+                    "activePower": "790",
+                    "energyToday": "351"
+                },
+                {
+                    "date": "2021-07-22T13:25:36.621Z",
+                    "efficiency": "10",
+                    "activePower": "700",
+                    "energyToday": "351"
+                },
+                {
+                    "date": "2021-07-23T13:35:36.621Z",
+                    "efficiency": "40",
+                    "activePower": "700",
+                    "energyToday": "321"
+                },
+                {
+                    "date": "2021-07-24T13:37:36.621Z",
+                    "efficiency": "20",
+                    "activePower": "700",
+                    "energyToday": "351"
+                },
+                {
+                    "date": "2021-07-25T14:05:36.621Z",
+                    "efficiency": "30",
+                    "activePower": "550",
+                    "energyToday": "151"
+                },
+                {
+                    "date": "2021-07-27T14:05:36.621Z",
+                    "efficiency": "56",
+                    "activePower": "830",
+                    "energyToday": "321"
+                }
+            ]
+        },
+        {
+            "inverterId": "INV4",
+            "data": [{
+                    "date": "2021-07-20T12:05:36.621Z",
+                    "efficiency": "22",
+                    "activePower": "450",
+                    "energyToday": "351"
+                },
+                {
+                    "date": "2021-07-21T13:05:36.621Z",
+                    "efficiency": "20",
+                    "activePower": "800",
+                    "energyToday": "351"
+                },
+                {
+                    "date": "2021-07-22T13:25:36.621Z",
+                    "efficiency": "40",
+                    "activePower": "700",
+                    "energyToday": "551"
+                },
+                {
+                    "date": "2021-07-23T13:35:36.621Z",
+                    "efficiency": "40",
+                    "activePower": "900",
+                    "energyToday": "251"
+                },
+                {
+                    "date": "2021-07-24T13:37:36.621Z",
+                    "efficiency": "20",
+                    "activePower": "700",
+                    "energyToday": "351"
+                },
+                {
+                    "date": "2021-07-25T14:05:36.621Z",
+                    "efficiency": "30",
+                    "activePower": "650",
+                    "energyToday": "151"
+                },
+                {
+                    "date": "2021-07-27T14:05:36.621Z",
+                    "efficiency": "56",
+                    "activePower": "640",
+                    "energyToday": "351"
+                }
+            ]
+        },
+        {
+            "inverterId": "INV5",
+            "data": [{
+                    "date": "2021-07-20T12:05:36.621Z",
+                    "efficiency": "23",
+                    "activePower": "650",
+                    "energyToday": "251"
+                },
+                {
+                    "date": "2021-07-21T13:05:36.621Z",
+                    "efficiency": "20",
+                    "activePower": "720",
+                    "energyToday": "311"
+                },
+                {
+                    "date": "2021-07-22T13:25:36.621Z",
+                    "efficiency": "10",
+                    "activePower": "730",
+                    "energyToday": "331"
+                },
+                {
+                    "date": "2021-07-23T13:35:36.621Z",
+                    "efficiency": "40",
+                    "activePower": "700",
+                    "energyToday": "351"
+                },
+                {
+                    "date": "2021-07-24T13:37:36.621Z",
+                    "efficiency": "20",
+                    "activePower": "700",
+                    "energyToday": "351"
+                },
+                {
+                    "date": "2021-07-25T14:05:36.621Z",
+                    "efficiency": "30",
+                    "activePower": "750",
+                    "energyToday": "341"
+                },
+                {
+                    "date": "2021-07-27T14:05:36.621Z",
+                    "efficiency": "16",
+                    "activePower": "666",
+                    "energyToday": "251"
+                }
+            ]
+        }
+    ]
+
+}

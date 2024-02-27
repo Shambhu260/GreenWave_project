@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #034ea2;
+      }
+    </style>
+  </defs>
+  <g id="Symbol_12_2" data-name="Symbol 12 – 2" transform="translate(-177 -462)">
+    <rect id="Rectangle_2163" data-name="Rectangle 2163" class="cls-1" width="50" height="50" transform="translate(177 462)"/>
+    <g id="Group_3372" data-name="Group 3372" transform="translate(189 474)">
+      <g id="Group_3372-2" data-name="Group 3372">
+        <path id="Path_1434" data-name="Path 1434" class="cls-2" d="M15.518,27.1A13.56,13.56,0,0,1,4.1,20.856.977.977,0,0,1,5.751,19.8a11.831,11.831,0,0,0,1.571,1.95A11.595,11.595,0,0,0,23.715,5.35a11.594,11.594,0,0,0-16.4,0A11.7,11.7,0,0,0,5.748,7.3.977.977,0,0,1,4.1,6.25,13.637,13.637,0,0,1,5.933,3.974,13.548,13.548,0,1,1,25.1,23.131,13.449,13.449,0,0,1,15.518,27.1Z" transform="translate(-2.66)"/>
+        <path id="Path_1435" data-name="Path 1435" class="cls-2" d="M14.834,40.516H.978a.978.978,0,1,1,0-1.956H14.834a.978.978,0,1,1,0,1.956Z" transform="translate(0 -25.988)"/>
+      </g>
+      <g id="Group_3375" data-name="Group 3375" transform="translate(9.454 8.007)">
+        <g id="Group_3373" data-name="Group 3373">
+          <path id="Path_1436" data-name="Path 1436" class="cls-2" d="M34.378,31.079a.975.975,0,0,1-.7-.3l-4.4-4.564a.978.978,0,0,1,1.408-1.356l4.4,4.564a.978.978,0,0,1-.7,1.656Z" transform="translate(-28.998 -24.558)"/>
+        </g>
+        <g id="Group_3374" data-name="Group 3374" transform="translate(0.001 4.566)">
+          <path id="Path_1437" data-name="Path 1437" class="cls-2" d="M29.979,45.082a.978.978,0,0,1-.7-1.656l4.4-4.564a.978.978,0,1,1,1.408,1.356l-4.4,4.564A.975.975,0,0,1,29.979,45.082Z" transform="translate(-29.002 -38.562)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

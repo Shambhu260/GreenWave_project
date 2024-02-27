@@ -1,0 +1,38 @@
+<div class="m-4">
+    <h3>Task Details</h3>
+    <form [formGroup]="editTaskForm">
+      <div class="row mb-1">
+        <div class="col-md-3">
+          <label class="textSize">Task Title</label><br>
+          <input type="text" formControlName="taskTitle">
+          <!-- <span style="color: red;" *ngIf="fname && fname.invalid && fname.touched">First Name is not valid</span> -->
+        </div>
+        <div class="col-md-3">
+          <label class="textSize">Description</label><br>
+          <input class="inputCss" type="text" formControlName="description">
+        </div>
+  
+        <!-- <div class="col-md-2">
+            <label class="textSize">SSN</label>
+            <input type="text" formControlName="ssn">
+          </div> -->
+        <div class="col-md-3">
+          <label class="textSize">DueDate</label><br>
+          <input type="date" formControlName="dueDate">
+          <!-- <span style="color: red;" *ngIf="startDate && startDate.invalid && startDate.touched">Start date is required</span> -->
+        </div>
+        <div class="col-md-3">
+          <label class="textSize">Status</label><br>
+          <!-- <input type="date" formControlName="status"> -->
+          <select style="height: 30px;" formControlName="status">
+            <option>Completed</option>
+            <option>Non-Competed</option>
+          </select>
+        </div>
+      </div>
+    </form>
+    <div>
+      <button class="btn btn-success float-right" (click)="editTask(editTaskForm.value)">Save</button>
+      <button routerLink="" class="btn float-right mr-2" mat-dialog-close>Cancel</button>
+    </div>
+  </div>

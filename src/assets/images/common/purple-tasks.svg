@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .menu-tasks-fill {
+        fill: #fff;
+      }
+
+      .menu-tasks-none {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g transform="translate(1113 -9653)">
+    <g transform="translate(-21.608 22.957)">
+      <path class="menu-tasks-fill"
+        d="M40.434,29.927H37.614V27.976h2.407V7.952H22.991v2.407H21.04V7.54A1.54,1.54,0,0,1,22.579,6H40.434A1.54,1.54,0,0,1,41.972,7.54V28.388a1.54,1.54,0,0,1-1.539,1.539"
+        transform="translate(-1105.029 9626.042)" />
+      <path class="menu-tasks-fill"
+        d="M35.945,37.148a.975.975,0,0,1-.69-1.665L40.841,29.9a.975.975,0,0,1,1.379,1.379l-5.585,5.584a.971.971,0,0,1-.69.286"
+        transform="translate(-1114.43 9610.106)" />
+      <path class="menu-tasks-fill"
+        d="M30.827,43.622a.973.973,0,0,1-.69-.286L27.671,40.87a.975.975,0,0,1,1.379-1.379l2.466,2.466a.976.976,0,0,1-.69,1.665"
+        transform="translate(-1109.312 9603.633)" />
+      <path class="menu-tasks-fill" d="M36.412,62.034h-8.05a.975.975,0,0,1,0-1.951h8.05a.975.975,0,0,1,0,1.951"
+        transform="translate(-1109.312 9589.543)" />
+      <path class="menu-tasks-fill" d="M36.412,72.564h-8.05a.975.975,0,1,1,0-1.951h8.05a.975.975,0,1,1,0,1.951"
+        transform="translate(-1109.312 9582.437)" />
+      <path class="menu-tasks-fill"
+        d="M29.881,40.332H12.2a1.627,1.627,0,0,1-1.626-1.626V18.032A1.627,1.627,0,0,1,12.2,16.406H29.881a1.627,1.627,0,0,1,1.626,1.626V38.707a1.627,1.627,0,0,1-1.626,1.626M12.525,38.382H29.556V18.357H12.525Z"
+        transform="translate(-1097.966 9619.02)" />
+    </g>
+    <rect class="menu-tasks-none" width="32" height="32" transform="translate(-1113 9653)" />
+  </g>
+</svg>

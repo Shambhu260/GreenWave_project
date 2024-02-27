@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .purple-none {
+        fill: none;
+      }
+
+      .purple-svg-active {
+        fill: #034ea2;
+      }
+    </style>
+  </defs>
+  <g transform="translate(-119 -143)">
+    <rect class="purple-none" width="32" height="32" transform="translate(119 143)" />
+    <path class="purple-svg-active"
+      d="M4343.749,6519.656h-22.665a2.828,2.828,0,0,0-2.824,2.825v17.225a2.828,2.828,0,0,0,2.824,2.824h10.321v1.709h-3.5a1.011,1.011,0,1,0,0,2.022h9.021a1.011,1.011,0,1,0,0-2.022h-3.5v-1.709h10.321a2.827,2.827,0,0,0,2.824-2.824V6522.48A2.827,2.827,0,0,0,4343.749,6519.656Zm-22.665,2.022h22.665a.8.8,0,0,1,.8.8v12.146h-24.269V6522.48A.8.8,0,0,1,4321.084,6521.678Z"
+      transform="translate(-4197.508 -6373.738)" />
+  </g>
+</svg>

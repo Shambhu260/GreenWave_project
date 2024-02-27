@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32"
+  viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .menu-profile-fill {
+        fill: #fff;
+      }
+
+      .menu-profile-none {
+        clip-path: url(#a);
+      }
+    </style>
+    <clipPath id="a">
+      <rect class="menu-profile-fill" width="32" height="32" />
+    </clipPath>
+  </defs>
+  <g class="menu-profile-none">
+    <path class="menu-profile-fill"
+      d="M34.1,33.4H15.775a2.543,2.543,0,0,1-2.532-2.549,11.693,11.693,0,1,1,23.385,0A2.543,2.543,0,0,1,34.1,33.4m-9.16-12.333a9.75,9.75,0,0,0-9.692,9.785.541.541,0,0,0,.532.549H34.1a.541.541,0,0,0,.532-.549,9.75,9.75,0,0,0-9.692-9.785m0-3.333a6.167,6.167,0,1,1,6.119-6.167,6.151,6.151,0,0,1-6.119,6.167m0-10.333a4.167,4.167,0,1,0,4.119,4.167,4.148,4.148,0,0,0-4.119-4.167"
+      transform="translate(-8.829 -3.603)" />
+  </g>
+</svg>

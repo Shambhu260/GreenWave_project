@@ -1,0 +1,1705 @@
+[
+    {
+        "name": "jio",
+        "eid": "jmd",
+        "version": "0",
+        "companyName": "Reliance Jio Infocomm Ltd.",
+        "photoUrl": "./assets/images/brand.svg",
+        "icon": "./assets/images//brand.ico",
+        "backgroundImage": "./assets/images/loginbg.jpg",
+        "portalTitle": "Jio Track",
+        "isClient": false,
+        "images": "./assets/images/common/",
+        "css": "./assets/css/",
+        "phone": "+91 98922 98651",
+        "website": "www.jio.com",
+        "address": "2nd Floor, Fortune 2000, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051",
+        "theme": "light",
+        "bg": "light-bg",
+        "landingPage": "dashboard",
+        "gRecapSiteKey": "6LcizP8UAAAAAPbb0Xj2KzmR55B1v6DYHF8CnUzC",
+        "featureList": {
+            "home": {
+                "isEnabled": true,
+                "select": {
+                    "isEnabled": true,
+                    "options": {
+                        "assign": false,
+                        "unassign": false,
+                        "delete": true,
+                        "trackSelected": false,
+                        "generateReport": false
+                    }
+                },
+                "trackDevices": {
+                    "isEnabled": false
+                },
+                "generateReport": {
+                    "isEnabled": false
+                },
+                "stats": {
+                    "isEnabled": false
+                },
+                "logo": {
+                    "width": "50px",
+                    "height": "50px"
+                }
+            },
+            "aclDashboard": {
+                "isEnabled": false,
+                "showEntityType": false
+            },
+            "rrHome": {
+                "isEnabled": true
+            },
+            "rrDashboard": {
+                "isEnabled": true
+            },
+            "geoDashboard": {
+                "isEnabled": true,
+                "device": {
+                    "count": 500
+                }
+            },
+            "scheduleTask": {
+                "isEnabled": true
+            },
+            "deviceInfo": {
+                "isEnabled": true,
+                "deviceProfile": {
+                    "isEnabled": true,
+                    "crud": {
+                        "partner": {
+                            "create": true,
+                            "read": true,
+                            "update": true,
+                            "delete": true
+                        },
+                        "admin": {
+                            "create": true,
+                            "read": true,
+                            "update": true,
+                            "delete": true
+                        },
+                        "user": {
+                            "create": false,
+                            "read": false,
+                            "update": false,
+                            "delete": false
+                        }
+                    }
+                },
+                "ownerProfile": {
+                    "isEnabled": true,
+                    "crud": {
+                        "partner": {
+                            "create": true,
+                            "read": true,
+                            "update": true,
+                            "delete": true
+                        },
+                        "admin": {
+                            "create": true,
+                            "read": true,
+                            "update": true,
+                            "delete": true
+                        },
+                        "user": {
+                            "create": false,
+                            "read": false,
+                            "update": false,
+                            "delete": false
+                        }
+                    }
+                },
+                "assetDetails": {
+                    "isEnabled": true,
+                    "crud": {
+                        "partner": {
+                            "create": true,
+                            "read": true,
+                            "update": true,
+                            "delete": true
+                        },
+                        "admin": {
+                            "create": true,
+                            "read": true,
+                            "update": true,
+                            "delete": true
+                        },
+                        "user": {
+                            "create": false,
+                            "read": false,
+                            "update": false,
+                            "delete": false
+                        }
+                    }
+                }
+            },
+            "deviceSetting": {
+                "isEnabled": true,
+                "deviceConfig": {
+                    "isEnabled": true
+                },
+                "deviceGeofence": {
+                    "isEnabled": true,
+                    "type": "settings",
+                    "max": 5,
+                    "crud": {
+                        "partner": {
+                            "create": true,
+                            "read": true,
+                            "update": true,
+                            "delete": true
+                        },
+                        "admin": {
+                            "create": true,
+                            "read": true,
+                            "update": true,
+                            "delete": true
+                        },
+                        "user": {
+                            "create": true,
+                            "read": true,
+                            "update": true,
+                            "delete": true
+                        }
+                    },
+                    "maxGeofence": 5
+                }
+            },
+            "act": {
+                "isEnabled": true
+            },
+            "globalGeofence": {
+                "isEnabled": false,
+                "geofenceCategory": false
+            },
+            "hierarchicalGeofence": {
+                "isEnabled": true,
+                "geofenceCategory": true
+            },
+            "acl": {
+                "isEnabled": true,
+                "multipleAcl": false,
+                "isAssignDat": false,
+                "isAlertReport": false
+            },
+            "alerts": {
+                "isEnabled": false,
+                "alertRefresh": 60000,
+                "alertNotify": false,
+                "autoRefresh": false
+            },
+            "incidents": {
+                "isEnabled": false,
+                "incidentRefresh": 60000,
+                "autoRefresh": false
+            },
+            "routes": {
+                "isEnabled": false,
+                "routeCategory": false
+            },
+            "trackAllDevices": {
+                "isEnabled": false,
+                "layers": {
+                    "isEnabled": false,
+                    "drawLayers": {
+                        "isEnabled": false,
+                        "globalGeofences": {
+                            "isEnabled": false
+                        },
+                        "globalRoutes": {
+                            "isEnabled": false
+                        }
+                    }
+                },
+                "devices": {
+                    "onlyOnline": {
+                        "isEnabled": false
+                    }
+                }
+            },
+            "health": {
+                "isEnabled": true
+            },
+            "help": {
+                "isEnabled": true
+            },
+            "profile": {
+                "isEnabled": true,
+                "preferences": {
+                    "isEnabled": false,
+                    "alerts": false
+                }
+            },
+            "preferences": {
+                "isEnabled": false
+            },
+            "map": {
+                "isEnabled": true,
+                "loadMap": true,
+                "eventsTab": {
+                    "isEnabled": false
+                },
+                "messageTab": {
+                    "isEnabled": false
+                },
+                "eventInfo": {
+                    "isEnabled": false
+                }
+            },
+            "fr": {
+                "isEnabled": false
+            },
+            "userOptions": {
+                "isEnabled": true,
+                "assetType": {
+                    "person": {},
+                    "vehicle": {},
+                    "student": {
+                        "details": {
+                            "rollNumber": {
+                                "isEnabled": true,
+                                "value": "Roll Number"
+                            },
+                            "batch": {
+                                "isEnabled": true,
+                                "value": "Batch"
+                            }
+                        }
+                    }
+                }
+            },
+            "deviceModels": {
+                "isEnabled": true,
+                "list": [
+                    {
+                        "name": "BorqsTrackerV1",
+                        "value": "BorqsTrackerV1"
+                    },
+                    {
+                        "name": "Dongle",
+                        "value": "Dongle"
+                    },
+                    {
+                        "name": "JioPhone",
+                        "value": "JioPhone"
+                    },
+                    {
+                        "name": "JioPhone3456",
+                        "value": "JioPhone3456"
+                    },
+                    {
+                        "name": "M1",
+                        "value": "M1"
+                    },
+                    {
+                        "name": "Model",
+                        "value": "model"
+                    },
+                    {
+                        "name": "Model2",
+                        "value": "model2"
+                    },
+                    {
+                        "name": "peopletracker",
+                        "value": "peopletracker"
+                    },
+                    {
+                        "name": "PerTrack",
+                        "value": "PerTrack"
+                    },
+                    {
+                        "name": "Watch",
+                        "value": "watch"
+                    }
+                ]
+            },
+            "signin": {
+                "isEnabled": true,
+                "googleLogin": {
+                    "isEnabled": false
+                },
+                "logo": {
+                    "width": "80px",
+                    "height": "80px"
+                }
+            }
+        }
+    },
+    {
+        "name": "jio",
+        "eid": "mvp",
+        "version": "0",
+        "companyName": "Reliance Jio Infocomm Ltd.",
+        "photoUrl": "./assets/images/brand.svg",
+        "icon": "./assets/images/brand.ico",
+        "backgroundImage": "./assets/images/loginbg.jpg",
+        "portalTitle": "Jio Track",
+        "isClient": true,
+        "images": "./assets/images/common/",
+        "css": "./assets/css/",
+        "phone": "+91 98922 98651",
+        "website": "www.jio.com",
+        "address": "2nd Floor, Fortune 2000, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051",
+        "theme": "light",
+        "bg": "light-bg",
+        "landingPage": "dashboard",
+        "gRecapSiteKey": "6LcizP8UAAAAAPbb0Xj2KzmR55B1v6DYHF8CnUzC",
+        "featureList": {
+            "home": {
+                "isEnabled": true,
+                "select": {
+                    "isEnabled": true,
+                    "options": {
+                        "assign": false,
+                        "unassign": false,
+                        "delete": true,
+                        "trackSelected": true,
+                        "generateReport": true
+                    }
+                },
+                "trackDevices": {
+                    "isEnabled": true
+                },
+                "generateReport": {
+                    "isEnabled": true
+                },
+                "notification": {
+                    "isEnabled": true
+                },
+                "stats": {
+                    "isEnabled": false
+                },
+                "logo": {
+                    "width": "50px",
+                    "height": "50px"
+                }
+            },
+            "fms": {
+                "isEnabled": true
+            },
+            "aclDashboard": {
+                "isEnabled": true,
+                "showEntityType": false
+            },
+            "geoDashboard": {
+                "isEnabled": true,
+                "device": {
+                    "count": 500
+                }
+            },
+            "scheduleTask": {
+                "isEnabled": true
+            },
+            "deviceInfo": {
+                "isEnabled": true,
+                "deviceProfile": {
+                    "isEnabled": true,
+                    "crud": {
+                        "partner": {
+                            "create": true,
+                            "read": true,
+                            "update": true,
+                            "delete": true
+                        },
+                        "admin": {
+                            "create": true,
+                            "read": true,
+                            "update": true,
+                            "delete": true
+                        },
+                        "user": {
+                            "create": false,
+                            "read": false,
+                            "update": false,
+                            "delete": false
+                        }
+                    }
+                },
+                "ownerProfile": {
+                    "isEnabled": true,
+                    "crud": {
+                        "partner": {
+                            "create": true,
+                            "read": true,
+                            "update": true,
+                            "delete": true
+                        },
+                        "admin": {
+                            "create": true,
+                            "read": true,
+                            "update": true,
+                            "delete": true
+                        },
+                        "user": {
+                            "create": false,
+                            "read": false,
+                            "update": false,
+                            "delete": false
+                        }
+                    }
+                },
+                "assetDetails": {
+                    "isEnabled": true,
+                    "crud": {
+                        "partner": {
+                            "create": true,
+                            "read": true,
+                            "update": true,
+                            "delete": true
+                        },
+                        "admin": {
+                            "create": true,
+                            "read": true,
+                            "update": true,
+                            "delete": true
+                        },
+                        "user": {
+                            "create": false,
+                            "read": false,
+                            "update": false,
+                            "delete": false
+                        }
+                    }
+                }
+            },
+            "deviceSetting": {
+                "isEnabled": true,
+                "deviceConfig": {
+                    "isEnabled": true
+                },
+                "deviceGeofence": {
+                    "isEnabled": true,
+                    "type": "settings",
+                    "max": 5,
+                    "crud": {
+                        "partner": {
+                            "create": true,
+                            "read": true,
+                            "update": true,
+                            "delete": true
+                        },
+                        "admin": {
+                            "create": true,
+                            "read": true,
+                            "update": true,
+                            "delete": true
+                        },
+                        "user": {
+                            "create": true,
+                            "read": true,
+                            "update": true,
+                            "delete": true
+                        }
+                    },
+                    "maxGeofence": 5
+                }
+            },
+            "act": {
+                "isEnabled": true
+            },
+            "globalGeofence": {
+                "isEnabled": false,
+                "geofenceCategory": true
+            },
+            "hierarchicalGeofence": {
+                "isEnabled": true,
+                "geofenceCategory": true
+            },
+            "acl": {
+                "isEnabled": true,
+                "multipleAcl": true,
+                "isAssignDat": true,
+                "isAlertReport": true
+            },
+            "alerts": {
+                "isEnabled": true,
+                "alertRefresh": 10000,
+                "alertNotify": true,
+                "autoRefresh": false
+            },
+            "incidents": {
+                "isEnabled": true,
+                "incidentRefresh": 10000,
+                "autoRefresh": false
+            },
+            "routes": {
+                "isEnabled": true,
+                "routeCategory": true
+            },
+            "trackAllDevices": {
+                "isEnabled": true,
+                "layers": {
+                    "isEnabled": true,
+                    "drawLayers": {
+                        "isEnabled": true,
+                        "globalGeofences": {
+                            "isEnabled": true
+                        },
+                        "globalRoutes": {
+                            "isEnabled": false
+                        }
+                    }
+                },
+                "devices": {
+                    "onlyOnline": {
+                        "isEnabled": true
+                    }
+                }
+            },
+            "health": {
+                "isEnabled": true
+            },
+            "help": {
+                "isEnabled": true
+            },
+            "profile": {
+                "isEnabled": true,
+                "preferences": {
+                    "isEnabled": true,
+                    "alerts": true
+                }
+            },
+            "preferences": {
+                "isEnabled": false
+            },
+            "map": {
+                "isEnabled": true,
+                "loadMap": true,
+                "eventsTab": {
+                    "isEnabled": false
+                },
+                "messageTab": {
+                    "isEnabled": false
+                },
+                "eventInfo": {
+                    "isEnabled": false
+                }
+            },
+            "fr": {
+                "isEnabled": false
+            },
+            "userOptions": {
+                "isEnabled": true,
+                "assetType": {
+                    "person": {},
+                    "vehicle": {},
+                    "student": {
+                        "details": {
+                            "rollNumber": {
+                                "isEnabled": true,
+                                "value": "Roll Number"
+                            },
+                            "batch": {
+                                "isEnabled": true,
+                                "value": "Batch"
+                            }
+                        }
+                    }
+                }
+            },
+            "deviceModels": {
+                "isEnabled": true,
+                "list": [
+                    {
+                        "name": "BorqsTrackerV1",
+                        "value": "BorqsTrackerV1"
+                    },
+                    {
+                        "name": "Dongle",
+                        "value": "Dongle"
+                    },
+                    {
+                        "name": "JioPhone",
+                        "value": "JioPhone"
+                    },
+                    {
+                        "name": "JioPhone3456",
+                        "value": "JioPhone3456"
+                    },
+                    {
+                        "name": "M1",
+                        "value": "M1"
+                    },
+                    {
+                        "name": "Model",
+                        "value": "model"
+                    },
+                    {
+                        "name": "Model2",
+                        "value": "model2"
+                    },
+                    {
+                        "name": "peopletracker",
+                        "value": "peopletracker"
+                    },
+                    {
+                        "name": "PerTrack",
+                        "value": "PerTrack"
+                    },
+                    {
+                        "name": "Watch",
+                        "value": "watch"
+                    }
+                ]
+            },
+            "signin": {
+                "isEnabled": true,
+                "googleLogin": {
+                    "isEnabled": false
+                },
+                "logo": {
+                    "width": "80px",
+                    "height": "80px"
+                }
+            }
+        }
+    },
+    {
+        "name": "jio",
+        "eid": "rrl",
+        "version": "0",
+        "companyName": "Reliance Retail Ltd.",
+        "photoUrl": "./assets/images/jio/light/ril.png",
+        "eanalytix":"./assets/images/common/Group 31698.png",
+        "icon": "./assets/images/jio/light/jioretail.ico",
+        "backgroundImage": "./assets/images/jio/light/loginbgnew.png",
+        "portalTitle": "Reliance Retail",
+        "isClient": true,
+        "images": "./assets/images/common/",
+        "css": "./assets/css/",
+        "phone": "+91 98922 98651",
+        "website": "www.jio.com",
+        "address": "2nd Floor, Fortune 2000, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051",
+        "theme": "grey",
+        "bg": "light-bg",
+        "landingPage": "rr-home",
+        "gRecapSiteKey": "6Le5j9QZAAAAAKmKEQJATZqPSHvWvcNO_Jw2WwF4",
+        "featureList": {
+          "home": {
+            "isEnabled": true,
+            "select": {
+              "isEnabled": true,
+              "options": {
+                "assign": false,
+                "unassign": false,
+                "delete": true,
+                "trackSelected": true,
+                "generateReport": true
+              }
+            },
+            "trackDevices": {
+              "isEnabled": false
+            },
+            "generateReport": {
+              "isEnabled": false
+            },
+            "notification": {
+              "isEnabled": false
+            },
+            "stats": {
+              "isEnabled": false
+            },
+            "logo": {
+              "width": "50px",
+              "height": "50px"
+            }
+          },
+          "fms": {
+            "isEnabled": true
+          },
+          "aclDashboard": {
+            "isEnabled": false,
+            "showEntityType": true,
+            "types":["Country","Zone","State","City","Store"]
+          },
+          "rrHome": {
+            "isEnabled": true
+          },
+          "rrDashboard": {
+            "isEnabled": true
+          },
+          "geoDashboard": {
+            "isEnabled": false,
+            "device": {
+              "count": 500
+            }
+          },
+          "scheduleTask": {
+            "isEnabled": true
+          },
+          "deviceInfo": {
+            "isEnabled": true,
+            "deviceProfile": {
+              "isEnabled": true,
+              "crud": {
+                "partner": {
+                  "create": true,
+                  "read": true,
+                  "update": true,
+                  "delete": true
+                },
+                "admin": {
+                  "create": true,
+                  "read": true,
+                  "update": true,
+                  "delete": true
+                },
+                "user": {
+                  "create": false,
+                  "read": false,
+                  "update": false,
+                  "delete": false
+                }
+              }
+            },
+            "ownerProfile": {
+              "isEnabled": true,
+              "crud": {
+                "partner": {
+                  "create": true,
+                  "read": true,
+                  "update": true,
+                  "delete": true
+                },
+                "admin": {
+                  "create": true,
+                  "read": true,
+                  "update": true,
+                  "delete": true
+                },
+                "user": {
+                  "create": false,
+                  "read": false,
+                  "update": false,
+                  "delete": false
+                }
+              }
+            },
+            "assetDetails": {
+              "isEnabled": true,
+              "crud": {
+                "partner": {
+                  "create": true,
+                  "read": true,
+                  "update": true,
+                  "delete": true
+                },
+                "admin": {
+                  "create": true,
+                  "read": true,
+                  "update": true,
+                  "delete": true
+                },
+                "user": {
+                  "create": false,
+                  "read": false,
+                  "update": false,
+                  "delete": false
+                }
+              }
+            }
+          },
+          "deviceSetting": {
+            "isEnabled": true,
+            "deviceConfig": {
+              "isEnabled": true
+            },
+            "deviceGeofence": {
+              "isEnabled": true,
+              "type": "settings",
+              "max": 5,
+              "crud": {
+                "partner": {
+                  "create": true,
+                  "read": true,
+                  "update": true,
+                  "delete": true
+                },
+                "admin": {
+                  "create": true,
+                  "read": true,
+                  "update": true,
+                  "delete": true
+                },
+                "user": {
+                  "create": true,
+                  "read": true,
+                  "update": true,
+                  "delete": true
+                }
+              },
+              "maxGeofence": 5
+            }
+          },
+          "act": {
+            "isEnabled": true
+          },
+          "globalGeofence": {
+            "isEnabled": false,
+            "geofenceCategory": true
+          },
+          "hierarchicalGeofence": {
+            "isEnabled": false,
+            "geofenceCategory": false
+          },
+          "acl": {
+            "isEnabled": true,
+            "multipleAcl": true,
+            "isAssignDat": true,
+            "isAlertReport": true,
+            "isOnboardAsset": true
+          },
+          "alerts": {
+            "isEnabled": true,
+            "alertRefresh": 600000,
+            "alertNotify": true,
+            "autoRefresh": false,
+            "preferences": [{
+              "name": "Electricity Metering Data",
+              "code": "electricity_metering_data",
+              "property": "electricityMeteringData"
+            }, {
+              "name": "Electricity Metering Status",
+              "code": "electricity_metering_status",
+              "property": "electricityMeteringStatus"
+            }, {
+              "name": "Asset Fault Status",
+              "code": "asset_fault_status",
+              "property": "assetFaultStatus"
+            }, {
+              "name": "Health Packet",
+              "code": "health_packet",
+              "property": "healthPacket"
+            }, {
+              "name": "Startup Event",
+              "code": "startup_event",
+              "property": "startupEvent"
+            }, {
+              "name": "Device Power On",
+              "code": "device_power_on",
+              "property": "devicePowerOn"
+            }, {
+              "name": "Device Power Off",
+              "code": "device_power_off",
+              "property": "devicePowerOff"
+            }, {
+              "name": "Batter Low Occurred",
+              "code": "battery_low_internal_occurred",
+              "property": "batteryLowInternalOccurred"
+            }, {
+              "name": "Battery Low Resolved",
+              "code": "battery_low_internal_resolved",
+              "property": "batteryLowInternalResolved"
+            }, {
+              "name": "Wakeup Event Packet",
+              "code": "wakeup_event_packet",
+              "property": "wakeupEventPacket"
+            }, {
+              "name": "Ignition On",
+              "code": "ignition_on",
+              "property": "ignitionOn"
+            }, {
+              "name": "Ignition Off",
+              "code": "ignition_off",
+              "property": "ignitionOff"
+            }, {
+              "name": "Power On",
+              "code": "power_on",
+              "property": "powerOn"
+            }, {
+              "name": "Power Off",
+              "code": "power_off",
+              "property": "powerOff"
+            }, {
+              "name": "Fuel Theft",
+              "code": "fuel_theft",
+              "property": "fuelTheft"
+            }, {
+              "name": "Fuel Fill",
+              "code": "fuel_fill",
+              "property": "fuelFill"
+            }, {
+              "name": "Fuel Level Above Mid",
+              "code": "fuel_level_above_mid",
+              "property": "fuelLevelAboveMid"
+            }, {
+              "name": "Fuel Level Below Mid",
+              "code": "fuel_level_below_mid",
+              "property": "fuelLevelBelowMid"
+            }, {
+              "name": "Fuel Level Low",
+              "code": "fuel_level_low",
+              "property": "fuelLevelLow"
+            }, {
+              "name": "Fuel Level Normal",
+              "code": "fuel_level_normal",
+              "property": "fuelLevelNormal"
+            }, {
+              "name": "Fuel Sensor Reconnected",
+              "code": "fuel_sensor_reconnected",
+              "property": "fuelSensorReconnected"
+            }, {
+              "name": "Fuel Sensor Disconnected",
+              "code": "fuel_sensor_disconnected",
+              "property": "fuelSensorDisconnected"
+            }, {
+              "name": "Input Power Supply Status",
+              "code": "input_power_supply_status",
+              "property": "inputPowerSupplyStatus"
+            }, {
+              "name": "Asset Live Status",
+              "code": "asset_live_status",
+              "property": "assetLiveStatus"
+            }, {
+              "name": "Communication Failure",
+              "code": "communication_failure",
+              "property": "communicationFailure"
+            }, {
+              "name": "Over Budget Alert",
+              "code": "over_budget_alert",
+              "property": "overBudgetAlert"
+            }]
+          },
+          "incidents": {
+            "isEnabled": false,
+            "incidentRefresh": 600000,
+            "autoRefresh": false
+          },
+          "routes": {
+            "isEnabled": false,
+            "routeCategory": false
+          },
+          "trackAllDevices": {
+            "isEnabled": false,
+            "layers": {
+              "isEnabled": true,
+              "drawLayers": {
+                "isEnabled": true,
+                "globalGeofences": {
+                  "isEnabled": true
+                },
+                "globalRoutes": {
+                  "isEnabled": false
+                }
+              }
+            },
+            "devices": {
+              "onlyOnline": {
+                "isEnabled": false
+              }
+            }
+          },
+          "health": {
+            "isEnabled": true
+          },
+          "help": {
+            "isEnabled": true
+          },
+          "profile": {
+            "isEnabled": true,
+            "preferences": {
+              "isEnabled": true,
+              "alerts": true
+            }
+          },
+          "preferences": {
+            "isEnabled": false
+          },
+          "map": {
+            "isEnabled": true,
+            "loadMap": true,
+            "eventsTab": {
+              "isEnabled": false
+            },
+            "messageTab": {
+              "isEnabled": false
+            },
+            "eventInfo": {
+              "isEnabled": true
+            }
+          },
+          "fr": {
+            "isEnabled": false
+          },
+          "userOptions": {
+            "isEnabled": true,
+            "assetType": {
+              "person": {},
+              "vehicle": {},
+              "student": {
+                "details": {
+                  "rollNumber": {
+                    "isEnabled": true,
+                    "value": "Roll Number"
+                  },
+                  "batch": {
+                    "isEnabled": true,
+                    "value": "Batch"
+                  }
+                }
+              }
+            }
+          },
+          "deviceModels": {
+            "isEnabled": true,
+            "list": [
+              {
+                "name": "BorqsTrackerV1",
+                "value": "BorqsTrackerV1"
+              },
+              {
+                "name": "Dongle",
+                "value": "Dongle"
+              },
+              {
+                "name": "JioPhone",
+                "value": "JioPhone"
+              },
+              {
+                "name": "JioPhone3456",
+                "value": "JioPhone3456"
+              },
+              {
+                "name": "M1",
+                "value": "M1"
+              },
+              {
+                "name": "Model",
+                "value": "model"
+              },
+              {
+                "name": "Model2",
+                "value": "model2"
+              },
+              {
+                "name": "peopletracker",
+                "value": "peopletracker"
+              },
+              {
+                "name": "PerTrack",
+                "value": "PerTrack"
+              },
+              {
+                "name": "Watch",
+                "value": "watch"
+              }
+            ]
+          },
+          "signin": {
+            "isEnabled": true,
+            "googleLogin": {
+              "isEnabled": false
+            },
+            "logo": {
+              "width": "80px",
+              "height": "80px"
+            }
+          }
+        }
+      },
+    {
+        "name": "Sprint Corporation",
+        "eid": "spr",
+        "version": "0",
+        "companyName": "Sprint Corporation.",
+        "photoUrl": "./assets/images/light/brand.svg",
+        "icon": "./assets/images/light/brand.ico",
+        "backgroundImage": "./assets/images/jio/light/loginbg.jpg",
+        "portalTitle": "Smart Track Management Portal",
+        "isClient": false,
+        "images": "./assets/images/common/",
+        "css": "./assets/css/",
+        "phone": "855-848-3280",
+        "website": "www.sprint.com",
+        "address": "6200 Sprint Pkwy. Overland Park, KS 66251",
+        "theme": "light",
+        "bg": "light-bg",
+        "landingPage": "dashboard",
+        "gRecapSiteKey": "6LcizP8UAAAAAPbb0Xj2KzmR55B1v6DYHF8CnUzC",
+        "featureList": {
+            "home": {
+                "isEnabled": true,
+                "select": {
+                    "isEnabled": false
+                },
+                "trackDevices": {
+                    "isEnabled": false
+                },
+                "generateReport": {
+                    "isEnabled": false
+                },
+                "notification": {
+                    "isEnabled": true
+                },
+                "stats": {
+                    "isEnabled": true
+                },
+                "logo": {
+                    "width": "95px",
+                    "height": "30px"
+                }
+            },
+            "aclDashboard": {
+                "isEnabled": false,
+                "showEntityType": false
+            },
+            "geoDashboard": {
+                "isEnabled": false,
+                "device": {
+                    "count": 500
+                }
+            },
+            "scheduleTask": {
+                "isEnabled": false
+            },
+            "deviceInfo": {
+                "isEnabled": true,
+                "deviceProfile": {
+                    "isEnabled": true,
+                    "crud": {
+                        "partner": {
+                            "create": true,
+                            "read": true,
+                            "update": true,
+                            "delete": true
+                        },
+                        "admin": {
+                            "create": true,
+                            "read": true,
+                            "update": true,
+                            "delete": true
+                        },
+                        "user": {
+                            "create": false,
+                            "read": false,
+                            "update": false,
+                            "delete": false
+                        }
+                    }
+                },
+                "ownerProfile": {
+                    "isEnabled": true,
+                    "crud": {
+                        "partner": {
+                            "create": true,
+                            "read": true,
+                            "update": true,
+                            "delete": true
+                        },
+                        "admin": {
+                            "create": true,
+                            "read": true,
+                            "update": true,
+                            "delete": true
+                        },
+                        "user": {
+                            "create": false,
+                            "read": false,
+                            "update": false,
+                            "delete": false
+                        }
+                    }
+                },
+                "assetDetails": {
+                    "isEnabled": false,
+                    "crud": {
+                        "partner": {
+                            "create": true,
+                            "read": true,
+                            "update": true,
+                            "delete": true
+                        },
+                        "admin": {
+                            "create": true,
+                            "read": true,
+                            "update": true,
+                            "delete": true
+                        },
+                        "user": {
+                            "create": false,
+                            "read": false,
+                            "update": false,
+                            "delete": false
+                        }
+                    }
+                }
+            },
+            "deviceSetting": {
+                "isEnabled": true,
+                "deviceConfig": {
+                    "isEnabled": true
+                },
+                "deviceGeofence": {
+                    "isEnabled": true,
+                    "type": "settings",
+                    "max": 5,
+                    "crud": {
+                        "partner": {
+                            "create": true,
+                            "read": true,
+                            "update": true,
+                            "delete": true
+                        },
+                        "admin": {
+                            "create": true,
+                            "read": true,
+                            "update": true,
+                            "delete": true
+                        },
+                        "user": {
+                            "create": true,
+                            "read": true,
+                            "update": true,
+                            "delete": true
+                        }
+                    },
+                    "maxGeofence": 5
+                }
+            },
+            "act": {
+                "isEnabled": false
+            },
+            "globalGeofence": {
+                "isEnabled": false,
+                "geofenceCategory": false
+            },
+            "hierarchicalGeofence": {
+                "isEnabled": false,
+                "geofenceCategory": false
+            },
+            "acl": {
+                "isEnabled": false,
+                "multipleAcl": false,
+                "isAssignDat": false,
+                "isAlertReport": false
+            },
+            "alerts": {
+                "isEnabled": false,
+                "alertRefresh": 60000,
+                "alertNotify": false,
+                "autoRefresh": false
+            },
+            "incidents": {
+                "isEnabled": false,
+                "incidentRefresh": 60000,
+                "autoRefresh": false
+            },
+            "routes": {
+                "isEnabled": false,
+                "routeCategory": false
+            },
+            "trackAllDevices": {
+                "isEnabled": false,
+                "layers": {
+                    "isEnabled": false,
+                    "drawLayers": {
+                        "isEnabled": false,
+                        "globalGeofences": {
+                            "isEnabled": false
+                        },
+                        "globalRoutes": {
+                            "isEnabled": false
+                        }
+                    }
+                },
+                "devices": {
+                    "onlyOnline": {
+                        "isEnabled": false
+                    }
+                }
+            },
+            "health": {
+                "isEnabled": false
+            },
+            "help": {
+                "isEnabled": false
+            },
+            "profile": {
+                "isEnabled": true,
+                "preferences": {
+                    "isEnabled": false,
+                    "alerts": false
+                }
+            },
+            "preferences": {
+                "isEnabled": false
+            },
+            "map": {
+                "isEnabled": true,
+                "loadMap": true,
+                "eventsTab": {
+                    "isEnabled": true
+                },
+                "messageTab": {
+                    "isEnabled": false
+                },
+                "eventInfo": {
+                    "isEnabled": false
+                }
+            },
+            "fr": {
+                "isEnabled": false
+            },
+            "userOptions": {
+                "isEnabled": false,
+                "assetType": {
+                    "person": {},
+                    "vehicle": {},
+                    "student": {
+                        "details": {
+                            "rollNumber": {
+                                "isEnabled": false,
+                                "value": "Roll Number"
+                            },
+                            "batch": {
+                                "isEnabled": false,
+                                "value": "Batch"
+                            }
+                        }
+                    }
+                }
+            },
+            "deviceModels": {
+                "isEnabled": true,
+                "list": [
+                    {
+                        "name": "Watch",
+                        "value": "watch"
+                    }
+                ]
+            },
+            "signin": {
+                "isEnabled": true,
+                "googleLogin": {
+                    "isEnabled": false
+                },
+                "logo": {
+                    "width": "250px",
+                    "height": "130px"
+                }
+            }
+        }
+    },
+    {
+        "name": "jio",
+        "eid": "frm",
+        "version": "0",
+        "companyName": "Reliance Jio Infocomm Ltd.",
+        "photoUrl": "./assets/images/jio/light/brand.svg",
+        "icon": "./assets/images/brand.ico",
+        "backgroundImage": "./assets/images/jio/light/loginbg.jpg",
+        "portalTitle": "Face Recognition Portal",
+        "isClient": true,
+        "images": "./assets/images/common/",
+        "css": "./assets/css/",
+        "phone": "+91 98922 98651",
+        "website": "www.jio.com",
+        "address": "2nd Floor, Fortune 2000, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051",
+        "theme": "light",
+        "bg": "light-bg",
+        "landingPage": "geodashboard",
+        "gRecapSiteKey": "6LcizP8UAAAAAPbb0Xj2KzmR55B1v6DYHF8CnUzC",
+        "featureList": {
+            "home": {
+                "isEnabled": false,
+                "select": {
+                    "isEnabled": false
+                },
+                "trackDevices": {
+                    "isEnabled": false
+                },
+                "generateReport": {
+                    "isEnabled": false
+                },
+                "notification": {
+                    "isEnabled": true
+                },
+                "stats": {
+                    "isEnabled": false
+                },
+                "logo": {
+                    "width": "50px",
+                    "height": "50px"
+                }
+            },
+            "aclDashboard": {
+                "isEnabled": false,
+                "showEntityType": false
+            },
+            "geoDashboard": {
+                "isEnabled": false,
+                "device": {
+                    "count": 500
+                }
+            },
+            "scheduleTask": {
+                "isEnabled": true
+            },
+            "deviceInfo": {
+                "isEnabled": false,
+                "deviceProfile": {
+                    "isEnabled": false,
+                    "crud": {
+                        "partner": {
+                            "create": false,
+                            "read": false,
+                            "update": false,
+                            "delete": false
+                        },
+                        "admin": {
+                            "create": false,
+                            "read": false,
+                            "update": false,
+                            "delete": false
+                        },
+                        "user": {
+                            "create": false,
+                            "read": false,
+                            "update": false,
+                            "delete": false
+                        }
+                    }
+                },
+                "ownerProfile": {
+                    "isEnabled": false,
+                    "crud": {
+                        "partner": {
+                            "create": false,
+                            "read": false,
+                            "update": false,
+                            "delete": false
+                        },
+                        "admin": {
+                            "create": false,
+                            "read": false,
+                            "update": false,
+                            "delete": false
+                        },
+                        "user": {
+                            "create": false,
+                            "read": false,
+                            "update": false,
+                            "delete": false
+                        }
+                    }
+                },
+                "assetDetails": {
+                    "isEnabled": false,
+                    "crud": {
+                        "partner": {
+                            "create": false,
+                            "read": false,
+                            "update": false,
+                            "delete": false
+                        },
+                        "admin": {
+                            "create": false,
+                            "read": false,
+                            "update": false,
+                            "delete": false
+                        },
+                        "user": {
+                            "create": false,
+                            "read": false,
+                            "update": false,
+                            "delete": false
+                        }
+                    }
+                }
+            },
+            "deviceSetting": {
+                "isEnabled": false,
+                "deviceConfig": {
+                    "isEnabled": false
+                },
+                "deviceGeofence": {
+                    "isEnabled": false,
+                    "type": "settings",
+                    "max": 5,
+                    "crud": {
+                        "partner": {
+                            "create": false,
+                            "read": false,
+                            "update": false,
+                            "delete": false
+                        },
+                        "admin": {
+                            "create": false,
+                            "read": false,
+                            "update": false,
+                            "delete": false
+                        },
+                        "user": {
+                            "create": false,
+                            "read": false,
+                            "update": false,
+                            "delete": false
+                        }
+                    },
+                    "maxGeofence": 5
+                }
+            },
+            "act": {
+                "isEnabled": true
+            },
+            "globalGeofence": {
+                "isEnabled": false,
+                "geofenceCategory": false
+            },
+            "hierarchicalGeofence": {
+                "isEnabled": false,
+                "geofenceCategory": false
+            },
+            "acl": {
+                "isEnabled": true,
+                "multipleAcl": false,
+                "isAssignDat": false,
+                "isAlertReport": false
+            },
+            "alerts": {
+                "isEnabled": false,
+                "alertRefresh": 30000,
+                "alertNotify": false,
+                "autoRefresh": false
+            },
+            "incidents": {
+                "isEnabled": false,
+                "incidentRefresh": 60000,
+                "autoRefresh": false
+            },
+            "routes": {
+                "isEnabled": false,
+                "routeCategory": false
+            },
+            "trackAllDevices": {
+                "isEnabled": false,
+                "layers": {
+                    "isEnabled": false,
+                    "drawLayers": {
+                        "isEnabled": false,
+                        "globalGeofences": {
+                            "isEnabled": false
+                        },
+                        "globalRoutes": {
+                            "isEnabled": false
+                        }
+                    }
+                },
+                "devices": {
+                    "onlyOnline": {
+                        "isEnabled": false
+                    }
+                }
+            },
+            "health": {
+                "isEnabled": false
+            },
+            "help": {
+                "isEnabled": false
+            },
+            "profile": {
+                "isEnabled": true,
+                "preferences": {
+                    "isEnabled": false,
+                    "alerts": false
+                }
+            },
+            "preferences": {
+                "isEnabled": false
+            },
+            "map": {
+                "isEnabled": false,
+                "loadMap": false,
+                "eventsTab": {
+                    "isEnabled": false
+                },
+                "messageTab": {
+                    "isEnabled": false
+                },
+                "eventInfo": {
+                    "isEnabled": false
+                }
+            },
+            "fr": {
+                "isEnabled": true
+            },
+            "userOptions": {
+                "isEnabled": true,
+                "assetType": {
+                    "person": {},
+                    "vehicle": {},
+                    "student": {
+                        "details": {
+                            "rollNumber": {
+                                "isEnabled": true,
+                                "value": "Roll Number"
+                            },
+                            "batch": {
+                                "isEnabled": true,
+                                "value": "Batch"
+                            }
+                        }
+                    }
+                }
+            },
+            "deviceModels": {
+                "isEnabled": false,
+                "list": [
+                    {
+                        "name": "BorqsTrackerV1",
+                        "value": "BorqsTrackerV1"
+                    },
+                    {
+                        "name": "Dongle",
+                        "value": "Dongle"
+                    },
+                    {
+                        "name": "JioPhone",
+                        "value": "JioPhone"
+                    },
+                    {
+                        "name": "JioPhone3456",
+                        "value": "JioPhone3456"
+                    },
+                    {
+                        "name": "M1",
+                        "value": "M1"
+                    },
+                    {
+                        "name": "Model",
+                        "value": "model"
+                    },
+                    {
+                        "name": "Model2",
+                        "value": "model2"
+                    },
+                    {
+                        "name": "peopletracker",
+                        "value": "peopletracker"
+                    },
+                    {
+                        "name": "PerTrack",
+                        "value": "PerTrack"
+                    },
+                    {
+                        "name": "Watch",
+                        "value": "watch"
+                    }
+                ]
+            },
+            "signin": {
+                "isEnabled": true,
+                "googleLogin": {
+                    "isEnabled": false
+                },
+                "logo": {
+                    "width": "80px",
+                    "height": "80px"
+                }
+            }
+        }
+    }
+]

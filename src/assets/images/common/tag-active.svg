@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 66.87 66.87">
+  <defs>
+    <style>
+      .tagactive-1 {fill: #034ea2;}
+      .purple-none{fill:none;}
+    </style>
+  </defs>
+  <path id="Path_1536" data-name="Path 1536" class="tagactive-1 purple-svg-active" d="M5722.56,2h-17.67a12.458,12.458,0,0,0-8.87,3.67l-30.99,30.99a8.112,8.112,0,0,0,0,11.48l18.36,18.36a8.112,8.112,0,0,0,11.47-.01l30.99-30.99a12.457,12.457,0,0,0,3.67-8.87V8.96A6.965,6.965,0,0,0,5722.56,2Zm-8.36,22.29a6.97,6.97,0,1,1,6.97-6.97A6.976,6.976,0,0,1,5714.2,24.29Z" transform="translate(-5662.65 -2)"/>
+  <rect class="purple-none" width="32" height="32"/>
+</svg>

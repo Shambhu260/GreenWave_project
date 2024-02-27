@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .a {
+        fill: #fff;
+      }
+
+      .stroke-black {
+        fill: #666;
+      }
+
+      .b {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g transform="translate(-7363 -2288)">
+    <rect class="b" width="32" height="32" transform="translate(7363 2288)" />
+    <g transform="translate(7365.354 2290.785)">
+      <g transform="translate(0 0)">
+        <g transform="translate(4.491 7.152)">
+          <path class="stroke-black"
+            d="M7392.817,2325.333a1,1,0,0,1-1-1v-5.521a1,1,0,0,1,2,0v5.521A1,1,0,0,1,7392.817,2325.333Z"
+            transform="translate(-7389.057 -2317.812)" />
+          <path class="stroke-black" d="M7390.058,2328.093h-5.521a1,1,0,0,1,0-2h5.521a1,1,0,0,1,0,2Z"
+            transform="translate(-7383.537 -2323.333)" />
+        </g>
+        <path class="stroke-black" d="M7424.8,2328.093h-5.52a1,1,0,0,1,0-2h5.52a1,1,0,0,1,0,2Z"
+          transform="translate(-7402.206 -2316.181)" />
+        <path class="stroke-black"
+          d="M7394.355,2319.926h-21.292a3,3,0,0,1-3-3v-12.333a3,3,0,0,1,3-3h21.292a3,3,0,0,1,3,3v12.333A3,3,0,0,1,7394.355,2319.926Zm-21.292-16.333a1,1,0,0,0-1,1v12.333a1,1,0,0,0,1,1h21.292a1,1,0,0,0,1-1v-12.333a1,1,0,0,0-1-1Z"
+          transform="translate(-7370.063 -2299.847)" />
+        <path class="stroke-black"
+          d="M7385.694,2300.1a1,1,0,0,1-1-1v-1.746a1,1,0,0,1,2,0v1.746A1,1,0,0,1,7385.694,2300.1Z"
+          transform="translate(-7379.817 -2296.356)" />
+        <path class="stroke-black"
+          d="M7434.582,2300.1a1,1,0,0,1-1-1v-1.745a1,1,0,0,1,2,0v1.745A1,1,0,0,1,7434.582,2300.1Z"
+          transform="translate(-7412.409 -2296.357)" />
+      </g>
+      <g transform="translate(3.585 19.41)">
+        <rect class="stroke-black" width="2" height="4.667" transform="translate(9.181)" />
+        <circle class="stroke-black" cx="1.59" cy="1.59" r="1.59" transform="translate(8.618 3.838)" />
+        <path class="stroke-black" d="M7420,2369.873h-8.187a1,1,0,0,1,0-2H7420a1,1,0,0,1,0,2Z"
+          transform="translate(-7400.818 -2363.444)" />
+        <path class="stroke-black" d="M7386.671,2369.873h-4.853a1,1,0,0,1,0-2h4.853a1,1,0,0,1,0,2Z"
+          transform="translate(-7380.818 -2363.444)" />
+      </g>
+    </g>
+  </g>
+</svg>

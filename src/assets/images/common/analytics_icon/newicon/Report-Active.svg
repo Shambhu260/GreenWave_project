@@ -1,0 +1,29 @@
+<svg width="29" height="34" viewBox="0 0 29 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+.purple-svg-active-stroke{fill:#034ea2;stroke="#034ea2"}.b{fill:none;}
+</style>
+<path class="purple-svg-active-stroke" d="M4.07561 10.2481H17.0997V11.1619H4.07561V10.2481Z" fill="#034ea2" class="purple-svg-active-stroke"/>
+<path class="purple-svg-active-stroke" d="M4.07561 14.3924H17.0997V15.3062H4.07561V14.3924Z" fill="#034ea2" class="purple-svg-active-stroke"/>
+<path class="purple-svg-active-stroke" d="M4.07561 18.5376H17.0997V19.4515H4.07561V18.5376Z" fill="#034ea2" class="purple-svg-active-stroke"/>
+<path class="purple-svg-active-stroke" d="M4.07561 22.6819H17.0997V23.5958H4.07561V22.6819Z" fill="#034ea2" class="purple-svg-active-stroke"/>
+<path d="M4.07561 26.828H17.0997V27.7419H4.07561V26.828Z" fill="#034ea2" class="purple-svg-active-stroke"/>
+<path d="M20.6714 10.3682L19.909 9.61158L19.259 10.258L20.6714 11.6607L22.9169 9.42892L22.2669 8.7829L20.6714 10.3682Z" fill="#034ea2" class="purple-svg-active-stroke"/>
+<path d="M20.6714 14.5032L19.909 13.7466L19.259 14.3926L20.6714 15.7957L22.9169 13.5639L22.2669 12.9179L20.6714 14.5032Z" fill="#034ea2" class="purple-svg-active-stroke"/>
+<path d="M20.6714 18.6373L19.909 17.8795L19.259 18.5266L20.6714 19.9293L22.9169 17.698L22.2669 17.0516L20.6714 18.6373Z" fill="#034ea2" class="purple-svg-active-stroke"/>
+<path d="M20.6714 22.7723L19.909 22.0145L19.259 22.6605L20.6714 24.0643L22.9169 21.8325L22.2669 21.1854L20.6714 22.7723Z" fill="#034ea2" class="purple-svg-active-stroke"/>
+<path d="M20.6714 26.9054L19.909 26.1487L19.259 26.7947L20.6714 28.1985L22.9169 25.9656L22.2669 25.3196L20.6714 26.9054Z" fill="#034ea2" class="purple-svg-active-stroke"/>
+<path d="M27.9845 6.50812V6.42113L22.5015 1H1V33H27.9838V6.75059C28.0058 6.67016 28.005 6.58718 27.9838 6.50856L27.9845 6.50812ZM22.7718 2.55557L26.4304 6.17363L22.7718 6.18091V2.55557ZM1.91993 32.0865V1.91361H21.8522V6.63847C21.8522 6.76003 21.9009 6.87613 21.9873 6.96202C22.0737 7.04792 22.1905 7.0956 22.3117 7.0956L27.0638 7.0865V32.0865L1.91993 32.0865Z" fill="#034ea2" class="purple-svg-active-stroke"/>
+<path d="M4.07561 6.18108H9.28835V7.09497H4.07561V6.18108Z" fill="#034ea2" class="purple-svg-active-stroke"/>
+<path d="M4.07561 10.2481H17.0997V11.1619H4.07561V10.2481Z" stroke="#034ea2" class="purple-svg-active-stroke"/>
+<path d="M4.07561 14.3924H17.0997V15.3062H4.07561V14.3924Z" stroke="#034ea2" class="purple-svg-active-stroke"/>
+<path d="M4.07561 18.5376H17.0997V19.4515H4.07561V18.5376Z" stroke="#034ea2" class="purple-svg-active-stroke"/>
+<path d="M4.07561 22.6819H17.0997V23.5958H4.07561V22.6819Z" stroke="#034ea2" class="purple-svg-active-stroke"/>
+<path d="M4.07561 26.828H17.0997V27.7419H4.07561V26.828Z" stroke="#034ea2" class="purple-svg-active-stroke"/>
+<path d="M20.6714 10.3682L19.909 9.61158L19.259 10.258L20.6714 11.6607L22.9169 9.42892L22.2669 8.7829L20.6714 10.3682Z" stroke="#034ea2" class="purple-svg-active-stroke"/>
+<path d="M20.6714 14.5032L19.909 13.7466L19.259 14.3926L20.6714 15.7957L22.9169 13.5639L22.2669 12.9179L20.6714 14.5032Z" stroke="#034ea2" class="purple-svg-active-stroke"/>
+<path d="M20.6714 18.6373L19.909 17.8795L19.259 18.5266L20.6714 19.9293L22.9169 17.698L22.2669 17.0516L20.6714 18.6373Z" stroke="#034ea2" class="purple-svg-active-stroke"/>
+<path d="M20.6714 22.7723L19.909 22.0145L19.259 22.6605L20.6714 24.0643L22.9169 21.8325L22.2669 21.1854L20.6714 22.7723Z" stroke="#034ea2" class="purple-svg-active-stroke"/>
+<path d="M20.6714 26.9054L19.909 26.1487L19.259 26.7947L20.6714 28.1985L22.9169 25.9656L22.2669 25.3196L20.6714 26.9054Z" stroke="#034ea2" class="purple-svg-active-stroke"/>
+<path d="M27.9845 6.50812V6.42113L22.5015 1H1V33H27.9838V6.75059C28.0058 6.67016 28.005 6.58718 27.9838 6.50856L27.9845 6.50812ZM22.7718 2.55557L26.4304 6.17363L22.7718 6.18091V2.55557ZM1.91993 32.0865V1.91361H21.8522V6.63847C21.8522 6.76003 21.9009 6.87613 21.9873 6.96202C22.0737 7.04792 22.1905 7.0956 22.3117 7.0956L27.0638 7.0865V32.0865L1.91993 32.0865Z" stroke="#034ea2" class="purple-svg-active-stroke"/>
+<path d="M4.07561 6.18108H9.28835V7.09497H4.07561V6.18108Z" stroke="#034ea2" class="purple-svg-active-stroke"/>
+</svg>

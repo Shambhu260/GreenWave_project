@@ -1,0 +1,63 @@
+<div class="m-4">
+  <h3>Create Task</h3>
+  <form [formGroup]="taskForm">
+    <div class="row mb-1">
+      <div class="col-md-3">
+        <label class="textSize">Task Title</label><br>
+        <input type="text" formControlName="taskTitle">
+        <!-- <span style="color: red;" *ngIf="fname && fname.invalid && fname.touched">First Name is not valid</span> -->
+      </div>
+      <div class="col-md-3">
+        <label class="textSize">Description</label><br>
+        <input class="inputCss" type="text" formControlName="description">
+      </div>
+
+      <!-- <div class="col-md-2">
+          <label class="textSize">SSN</label>
+          <input type="text" formControlName="ssn">
+        </div> -->
+      <div class="col-md-3">
+        <label class="textSize">DueDate</label><br>
+        <input type="date" formControlName="dueDate">
+        <!-- <span style="color: red;" *ngIf="startDate && startDate.invalid && startDate.touched">Start date is required</span> -->
+      </div>
+      <div class="col-md-3">
+        <label class="textSize">Status</label><br>
+        <!-- <input type="date" formControlName="status"> -->
+        <select style="height: 30px;" formControlName="status">
+          <option>Completed</option>
+          <option>Non-Competed</option>
+        </select>
+      </div>
+    </div>
+  </form>
+  <div>
+    <button class="btn btn-success float-right" (click)="createTask(taskForm.value)">Save</button>
+  </div>
+</div>
+
+<div class="m-4">
+  <table>
+    <tr>
+      <th>Task Id</th>
+      <th>Task Title</th>
+      <th>Description</th>
+      <th>Status</th>
+      <th>DueDate</th>
+      <th>Delete</th>
+      <!-- <th>DOB</th>
+          <th>Edit</th>
+           -->
+    </tr>
+    <tr *ngFor="let iteam of dataSource">
+      <!-- <td> {{iteam._id}} </td> -->
+      <a routerLink="./task-details" [queryParams]="{ id:iteam._id}">{{ iteam._id }}</a>
+      <td> {{iteam.taskTitle}} </td>
+      <td> {{iteam.description}} </td>
+      <td> {{iteam.status}} </td>
+      <td> {{iteam.dueDate| date:'dd-MM-yyyy'}} </td>
+      <!-- <td><mat-icon (click)="editEmployee(iteam.empId)">edit</mat-icon></td> -->
+          <td><mat-icon (click)="deleteTask(iteam._id)">delete</mat-icon></td>
+    </tr>
+  </table>
+</div>

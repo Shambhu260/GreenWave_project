@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32"
+  viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .menu-devices-fill {
+        fill: #fff;
+      }
+
+      .menu-devices-none {
+        clip-path: url(#purple-svg);
+      }
+    </style>
+    <clipPath id="a">
+      <rect class="menu-devices-fill" width="32" height="32" />
+    </clipPath>
+  </defs>
+  <g transform="translate(-84 -384)">
+    <g transform="translate(84 384)">
+      <rect class="menu-devices-fill" width="26" height="2" transform="translate(3.013 17.367)" />
+      <g class="menu-devices-none">
+        <path class="menu-devices-fill"
+          d="M31.245,30.307H8.831a2.8,2.8,0,0,1-2.793-2.793V10.479A2.8,2.8,0,0,1,8.831,7.686H31.245a2.8,2.8,0,0,1,2.793,2.793V27.514a2.8,2.8,0,0,1-2.793,2.793M8.831,9.686a.794.794,0,0,0-.793.793V27.514a.794.794,0,0,0,.793.793H31.245a.794.794,0,0,0,.793-.793V10.479a.794.794,0,0,0-.793-.793Z"
+          transform="translate(-4.025 -5.124)" />
+        <path class="menu-devices-fill" d="M41.576,82.618H32.655a1,1,0,0,1,0-2h8.921a1,1,0,0,1,0,2"
+          transform="translate(-21.103 -53.745)" />
+        <path class="menu-devices-fill" d="M46.037,75.239a1,1,0,0,1-1-1v-3.69a1,1,0,0,1,2,0v3.69a1,1,0,0,1-1,1"
+          transform="translate(-30.025 -46.366)" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .a {
+        fill: #fff;
+      }
+
+      .stroke-black {
+        fill: #666;
+      }
+
+      .b {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g transform="translate(-7432.626 -2656)">
+    <rect class="b" width="32" height="32" transform="translate(7432.626 2656)" />
+    <g transform="translate(7434.897 2659.571)">
+      <g transform="translate(4.491 9.11)">
+        <path class="stroke-black"
+          d="M7462.2,2701.565a1,1,0,0,1-1-1v-5.521a1,1,0,0,1,2,0v5.521A1,1,0,0,1,7462.2,2701.565Z"
+          transform="translate(-7458.436 -2694.045)" />
+        <path class="stroke-black" d="M7459.436,2704.326h-5.521a1,1,0,0,1,0-2h5.521a1,1,0,0,1,0,2Z"
+          transform="translate(-7452.915 -2699.566)" />
+      </g>
+      <path class="stroke-black"
+        d="M7503.961,2676.335a1,1,0,0,1-1-1v-1.745a1,1,0,0,1,2,0v1.745A1,1,0,0,1,7503.961,2676.335Z"
+        transform="translate(-7481.788 -2670.631)" />
+      <path class="stroke-black"
+        d="M7471.1,2691.571a1,1,0,0,1-.707-.293l-22.857-22.857a1,1,0,1,1,1.414-1.414l22.857,22.857a1,1,0,0,1-.708,1.708Z"
+        transform="translate(-7444.64 -2666.714)" />
+      <path class="stroke-black" d="M7493.336,2704.326h3.294a1,1,0,0,0,0-2h-5.294Z"
+        transform="translate(-7474.038 -2690.455)" />
+      <g transform="translate(0 3.704)">
+        <path class="stroke-black"
+          d="M7468.836,2679.826H7482a1,1,0,0,1,1,1v12.333a.992.992,0,0,1-.215.612l1.417,1.417a2.986,2.986,0,0,0,.8-2.03v-12.333a3,3,0,0,0-3-3h-15.16Z"
+          transform="translate(-7457.704 -2677.826)" />
+        <path class="stroke-black"
+          d="M7459.25,2694.159h-16.808a1,1,0,0,1-1-1v-12.333a1,1,0,0,1,1-1h2.475l-2-2h-.475a3,3,0,0,0-3,3v12.333a3,3,0,0,0,3,3h18.808Z"
+          transform="translate(-7439.441 -2677.826)" />
+      </g>
+    </g>
+  </g>
+</svg>
