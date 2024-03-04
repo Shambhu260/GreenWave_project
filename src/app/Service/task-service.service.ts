@@ -15,6 +15,8 @@ export class TaskService {
     return this.htttpClient.get(this.apiUl + "/getAllTask")
   }
   public getSingleData(taskId: any): Observable<any>{
+    console.log(taskId);
+    
     return this.htttpClient.get(this.apiUl + "getSingleData/" + taskId)
   }
   public updateTask(taskId: any, editTaskData: any): Observable<any> {

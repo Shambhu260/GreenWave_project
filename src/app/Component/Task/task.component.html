@@ -49,15 +49,15 @@
           <th>Edit</th>
            -->
     </tr>
-    <tr *ngFor="let iteam of dataSource">
-      <!-- <td> {{iteam._id}} </td> -->
-      <a routerLink="./task-details" [queryParams]="{ id:iteam._id}">{{ iteam._id }}</a>
-      <td> {{iteam.taskTitle}} </td>
-      <td> {{iteam.description}} </td>
-      <td> {{iteam.status}} </td>
-      <td> {{iteam.dueDate| date:'dd-MM-yyyy'}} </td>
-      <!-- <td><mat-icon (click)="editEmployee(iteam.empId)">edit</mat-icon></td> -->
-          <td><mat-icon (click)="deleteTask(iteam._id)">delete</mat-icon></td>
+    <tr *ngFor="let item of dataSource">
+      <!-- <td> {{item._id}} </td> -->
+      <a routerLink="./task-details" [queryParams]="{ id:item._id}">{{ item._id }}</a>
+      <td> {{item.taskTitle}} </td>
+      <td> {{item.description}} </td>
+      <td> {{item.status}} </td>
+      <td> {{item.dueDate| date:'dd-MM-yyyy'}} </td>
+      <!-- <td><mat-icon (click)="editEmployee(item.empId)">edit</mat-icon></td> -->
+          <td><mat-icon (click)="deleteTask(item._id)">delete</mat-icon></td>
     </tr>
   </table>
 </div>

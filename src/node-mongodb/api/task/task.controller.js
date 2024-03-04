@@ -60,7 +60,7 @@ exports.deleteTask = async function (req,res){
 
 exports.getSingleData = async function (req,res){
     try {
-        var task = await taskModel.findOne({empId: req.params.empId})
+        var task = await taskModel.findOne({_id: req.params.taskId})
         console.log(task);
         if(task){
             res.send({status: true, code: 200, message: "Get Single task Data", data: task})
